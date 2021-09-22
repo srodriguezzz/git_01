@@ -18,15 +18,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
-When I see birches bend to left and right
-
-Across the lines of straighter darker trees,
-
-I like to think some boy’s been swinging them.
-
-But swinging doesn’t bend them down to stay
-
-As ice-storms do. Often you must have seen them
+When I see birches bend to left and right  
+Across the lines of straighter darker trees,  
+I like to think some boy’s been swinging them.  
+But swinging doesn’t bend them down to stay  
+As ice-storms do. Often you must have seen them  
 
 
 ## Third Verse
